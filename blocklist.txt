@@ -1,0 +1,4 @@
+# Starter examples, not a comprehensive ad list.
+# Add domains here or replace this with a trusted hosts-format blocklist.
+doubleclick.net
+googlesyndication.com
